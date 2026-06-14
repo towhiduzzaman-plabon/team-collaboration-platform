@@ -1,12 +1,6 @@
-<div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://ai.google.dev/static/site-assets/images/share-ais-513315318.png" />
-</div>
-
-# Run and deploy your AI Studio app
+site link:https://team-collaboration-platform-975748489435.asia-southeast1.run.app
 
 This contains everything you need to run your app locally.
-
-View your app in AI Studio: https://ai.studio/apps/123f8145-705b-455f-96fa-b1f623793e4d
 
 ## Run Locally
 
