@@ -1,0 +1,6 @@
+{
+  "name": "Team Collaboration Platform",
+  "description": "An enterprise-grade, AI-powered team collaboration dashboard with kanban boards, real-time simulated workspace chat, activity logs, and Gemini AI task breakdowns, deadline ideas, and status summaries.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
